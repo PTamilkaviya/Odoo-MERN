@@ -1,0 +1,4 @@
+services:
+  test_service:
+    image: alpine
+    command: echo "Docker Compose is working!"
